@@ -5,23 +5,23 @@ class Sharks < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/anson1eechun/ascii-sharks-term/releases/download/v0.1.0/sharks-v0.1.0-aarch64-apple-darwin.tar.gz"
-      sha256 "6fcff4586b00af52d8a292fe3f214fa84f5f2c38b48595ecb0d5739a5f952b0d"
+      url "https://github.com/anson1eechun/ascii-sharks-term/releases/download/v0.2.0/sharks-v0.2.0-aarch64-apple-darwin.tar.gz"
+      sha256 "7696dc440ee56395e056b1f6173ed86084f7a49645d0013cdbad1de7dd22b261"
     end
     on_intel do
-      url "https://github.com/anson1eechun/ascii-sharks-term/releases/download/v0.1.0/sharks-v0.1.0-x86_64-apple-darwin.tar.gz"
-      sha256 "01ec4e516c03ef3b1c5ca6cf4d91dd13a3fd135cdfaee2371ce257f687dec7ee"
+      url "https://github.com/anson1eechun/ascii-sharks-term/releases/download/v0.2.0/sharks-v0.2.0-x86_64-apple-darwin.tar.gz"
+      sha256 "7a5ba6b9122176646de9a45c5ddf82c9aef286b270b5e51f375e5f97deb5292e"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/anson1eechun/ascii-sharks-term/releases/download/v0.1.0/sharks-v0.1.0-aarch64-unknown-linux-musl.tar.gz"
-      sha256 "82cf7336aaeda0748055b48a052d55f3d539c1145a5eeea96ca5f56541f0e210"
+      url "https://github.com/anson1eechun/ascii-sharks-term/releases/download/v0.2.0/sharks-v0.2.0-aarch64-unknown-linux-musl.tar.gz"
+      sha256 "18f398fe9074147ade97313b887cec5720147b4b85461d40e0d21fbf8bdeaf45"
     end
     on_intel do
-      url "https://github.com/anson1eechun/ascii-sharks-term/releases/download/v0.1.0/sharks-v0.1.0-x86_64-unknown-linux-musl.tar.gz"
-      sha256 "09ee2a301e79780a5878b16190d032149331a4e28af4d3d91f1b47e985524088"
+      url "https://github.com/anson1eechun/ascii-sharks-term/releases/download/v0.2.0/sharks-v0.2.0-x86_64-unknown-linux-musl.tar.gz"
+      sha256 "aba03f93ff2acca8c224836faa1a00b954e575d84fd881347367ab64e562b8a2"
     end
   end
 
