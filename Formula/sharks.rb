@@ -1,7 +1,6 @@
 class Sharks < Formula
   desc "ASCII sharks and fish schools in your terminal"
   homepage "https://github.com/anson1eechun/ascii-sharks-term"
-  version "0.1.0"
   license "MIT"
 
   on_macos do
